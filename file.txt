@@ -1,2 +1,2 @@
-First Line
-Line 2 from main branch
+Line 1 from main branch
+Line 2 from feature branch
